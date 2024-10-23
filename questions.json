@@ -1,0 +1,218 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Divide the $600 in the ratio 2:3.",
+        "options": [
+            "240 : 360",
+            "260 : 340",
+            "360 : 240",
+            "280 : 320"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2",
+        "question": "A regular hexagon’s side is 4 mm and that of a regular pentagon is 16mm. What is the ratio of the length of the side of the hexagon and a pentagon?",
+        "options": [
+            "1 : 6",
+            "2 : 8",
+            "2 : 4",
+            "1 : 4"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "At the end of the day, a farmer had 20 leftover vegetables. At the beginning of the day, A farmer had 50 pieces of Vegetables. What is the ratio of leftover vegetables to initial vegetables?",
+        "options": [
+            "3 : 5",
+            "5 : 2",
+            "2 : 5",
+            "2 : 6"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4",
+        "question": "There are 8 pairs of leather shoes and 12 pairs of PU shoes. Write the ratio of leather shoes to PU shoes.",
+        "options": [
+            "3 : 2",
+            "2 : 3",
+            "2 : 4",
+            "1 : 3"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Reduce each ratio to the simplest form.<br> 5 : 10",
+        "options": [
+            "2 : 1",
+            "2 : 5",
+            "1 : 2",
+            "1 : 3"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q6",
+        "question": "The ratio of girls to boys in a school ground is 3 to 4. If there are a total of 40 boys in the ground, then how many boys and girls are there altogether?",
+        "options": [
+            "75",
+            "60",
+            "65",
+            "70"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Use the following symbols (>, <, =) to compare the ratios.<br>6 : 18 _____ 1 : 3",
+        "options": [
+            "<",
+            ">",
+            "="
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8",
+        "question": "Reduce each ratio to the simplest form.<br> 60 : 54",
+        "options": [
+            "10 : 9",
+            "5 : 9",
+            "9 : 10",
+            "10 : 5"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9",
+        "question": "The blue ribbons to green ribbons ratio are 4 to 6. If there are a total of 40 red ribbons, then how much green ribbons are there?",
+        "options": [
+            "75",
+            "60",
+            "65",
+            "70"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "A coach orders a few footballs online. He orders 15 white footballs and 12 black and white footballs. What is the ratio of white footballs to all footballs?",
+        "options": [
+            "5 : 9",
+            "5 : 7",
+            "9 : 5",
+            "7 : 9"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11",
+        "question": "Write the ratio in the simplest form.<br><img width='90%' src='./assests/images/31.png'> <br>The ratio of circles to triangles = _________",
+        "options": [
+            "2 : 4",
+            "2 : 1",
+            "1 : 2",
+            "4 : 2"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q12",
+        "question": "There are 4 chairs and 3 tables in a classroom. Write the ratio of tables to chairs.",
+        "options": [
+            "4 : 3",
+            "3 : 4"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13",
+        "question": "Compair the ratio<br>2 : 31 _______ 1 : 31",
+        "options": [
+            "<",
+            ">",
+            "="
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q14",
+        "question": "A sum of $ 400 was divided among 6 boys and 4 girls in such a way that the boy gets $ 240. How much money was distributed among the girls?",
+        "options": [
+            "$160",
+            "$165",
+            "$170",
+            "$175"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15",
+        "question": "The ratio of the amount of milk in two containers is 4 to 11. If the first of the containers has 20 gallons, find the amount of milk in the second container?",
+        "options": [
+            "45",
+            "50",
+            "55",
+            "60"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16",
+        "question": "There are 18 pairs of leather bags and 24 pairs of PU bags. Write the ratio of leather bags to PU bags.",
+        "options": [
+            "1 : 3",
+            "4 : 3",
+            "2 : 4",
+            "3 : 4"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q17",
+        "question": "There are 22 black balls in a bag and 11 white balls in a bag. Write a ratio to represent the number of black balls to white balls in a bag.",
+        "options": [
+            "1 : 2",
+            "2 : 1",
+            "3 : 2",
+            "3 : 1"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18",
+        "question": "The ratio of number of boys and girls in a class is 5 : 9. Find the number of girls if the total number of students in the class is 56.",
+        "options": [
+            "46",
+            "38",
+            "36",
+            "32"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19",
+        "question": "Two numbers are in the ratio of 7:9. If their sum is 320, find the numbers.",
+        "options": [
+            "140, 180",
+            "180, 140",
+            "130, 190",
+            "145, 185"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20",
+        "question": "The number of cards collected by Rina, Mina and Tina are in the ratio 1:3:5 respectively. If Rina has a collection of 45 cards, find the number of cards with Mina and Tina.",
+        "options": [
+            "145,325",
+            "135,275",
+            "145,225",
+            "135,225"
+        ],
+        "correct": 3
+    }
+]
